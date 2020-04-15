@@ -1,5 +1,7 @@
 # Getting Started
 
+#### This guide is being moved over to https://dortania.github.io/oc-laptop-guide/. This site will go down April 19th (though the repo will stay around). This is an effort to move all of our guides to one single place to make it easier on users to find guides and contribute if they want to. You can find all of our guides at https://github.com/Dortania
+
 ## Why OpenCore?
 
 Many guides out there use Clover - and for good reason. It's been around for many years and there is a large knowledge base around it. Recently though, Clover has been showing glaring pitfalls - many of which OpenCore solves. Starting with release 5092, Clover does not inject ethernet/wifi kexts when going into the installer, making the internet installation method impossible. Additionally, laptops sometimes will refuse to boot with Clover.
