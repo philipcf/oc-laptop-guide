@@ -1,6 +1,6 @@
 # Getting Started
 
-#### This guide is being moved over to https://dortania.github.io/oc-laptop-guide/. This site will go down April 19th (though the repo will stay around). This is an effort to move all of our guides to one single place to make it easier on users to find guides and contribute if they want to. You can find all of our guides at https://github.com/Dortania
+**This guide is being moved over to https://dortania.github.io/oc-laptop-guide/. This site will go down April 19th (though the repo will stay around). This is an effort to move all of our guides to one single place to make it easier on users to find guides and contribute if they want to. You can find all of our guides at https://github.com/Dortania**
 
 ## Why OpenCore?
 
