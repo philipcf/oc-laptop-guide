@@ -42,7 +42,7 @@ Remember, internal devices are of type 255 and external devices depend on the ty
 
 ## Inject All The Ports!
 
-A prerequisite to mapping your ports is injecting every port imagineable into your installation temporarily. That allows the mapping utility to see all of the ports available to your system. The kernel extension needed for this to work is called USBInjectAll, and it can be found in Rehabman's Bitbucket repository. Download the kext, and add it to C/k/O. You'll need to reboot before continuing.
+A prerequisite to mapping your ports is injecting every port imagineable into your installation temporarily. That allows the mapping utility to see all of the ports available to your system. The kernel extension needed for this to work is called USBInjectAll, and it can be found in Rehabman's Bitbucket repository. Download the kext, and add it to OC/Kexts. You'll need to reboot before continuing.
 
 [Download USBInjectAll @ Bitbucket](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/)
 
@@ -52,7 +52,7 @@ Now that you're armed with knowledge about your USB devices and you've fixed tha
 
 [Visit USBMap @ Github](https://github.com/corpnewt/USBMap)
 
-After saving your changes, the USBMap tool will create several files and open a finder window. Take the USBMap.kext that you've just created and copy it to C/k/O. Delete USBInjectAll, you won't need it any longer.
+After saving your changes, the USBMap tool will create several files and open a finder window. Take the USBMap.kext that you've just created and copy it to OC/Kexts. Delete USBInjectAll, you won't need it any longer.
 
 After verifying the ports you need are mapped and working properly, disable the port limit patches.
 
